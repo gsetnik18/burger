@@ -1,0 +1,29 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "packages for burger app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsetnik18/burger.git"
+  },
+  "keywords": [
+    "handlebars",
+    "node",
+    "express"
+  ],
+  "author": "gsetnik18",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsetnik18/burger/issues"
+  },
+  "homepage": "https://github.com/gsetnik18/burger#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "mysql": "^2.17.1"
+  }
+}
